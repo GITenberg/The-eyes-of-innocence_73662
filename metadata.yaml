@@ -1,0 +1,63 @@
+_repo: The-eyes-of-innocence_73662
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gage, George W.
+    alias: Gage, G. W.
+    birthdate: 1887
+    deathdate: 1957
+    gutenberg_agent_id: '32544'
+    url: http://www.gutenberg.org/2009/agents/32544
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixeira de
+    - De Mattos, Alexander Teixeira
+    - Mattos, Alexander Teixera de
+    - Mattos, Alexander Teixeria de
+    - Mattos, Alexander Louis Teixeira de
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos
+creator:
+  author:
+    agent_name: Leblanc, Maurice
+    aliases:
+    - Blanc, Maurice Le
+    - Blanc, Maurice le
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '1358'
+    url: http://www.gutenberg.org/2009/agents/1358
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Maurice_Leblanc
+    - https://fr.wikipedia.org/wiki/Maurice_Leblanc
+description: ''
+gutenberg_issued: '2024-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73662'
+  lccn: '20019765'
+language: en
+pgterms:marc904: https://archive.org/details/eyesofinnocence00lebliala
+pgterms:marc905: 20210117041349leblanc
+pgterms:marc906: '1920'
+pgterms:marc907: us
+production_note: Peter Becker, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bThe MacAuley Company, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'France -- Fiction'
+- !lcsh 'Identity -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: The eyes of innocence
+url: http://www.gutenberg.org/ebooks/73662
